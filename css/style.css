@@ -62,7 +62,7 @@
 
 @keyframes blinkCursor {
     from {
-        border-right-color: #000000;
+        border-right-color: #002be7;
     }
     to {
         border-right-color: transparent;
@@ -81,7 +81,7 @@
 
 @keyframes blinkCursorCodigo {
     from {
-        border-right-color: #000000;
+        border-right-color: #002be7;
     }
     to {
         border-right-color: transparent;
@@ -117,7 +117,7 @@
 }
 
 .carregando{
-    border-right: 2px solid #000000; 
+    border-right: 2px solid #002be7; 
     text-align: center; 
     margin: 0 auto; 
     white-space: nowrap; 
@@ -251,7 +251,7 @@
 
 .textoSaldo{
     font-size: 10px;
-    color: #000000;
+    color: #002be7;
     font-weight: 700;
     position: relative;
     top: -14px;;
@@ -264,7 +264,7 @@
 .valorSaldo{
     margin: -17px 0 0 12px;
     font-family: 'PoppinsSemiBold'; 
-    color: #000000;
+    color: #002be7;
 }
 
 .saldoAnimado{
@@ -366,7 +366,7 @@
 
 
 .continuarAtivo{
-    color: #000000;
+    color: #002be7;
     border-radius: 8px;
     background-color: #FFD900;
     border: none;
@@ -378,7 +378,7 @@
     -webkit-animation: pulse 3.5s infinite;
 }
 .continuarAtivo:hover{
-    color: #000000;
+    color: #002be7;
     border-radius: 8px;
     background-color: #FFD900;
     border: none;
@@ -388,7 +388,7 @@
 
 
 .finalizarAtivo{
-    color: #000000;
+    color: #002be7;
     border-radius: 8px;
     background-color: #FFD900;
     border: none;
@@ -399,7 +399,7 @@
     -webkit-animation: pulse 3.5s infinite;
 }
 .finalizarAtivo:hover{
-    color: #000000;
+    color: #002be7;
     border-radius: 8px;
     background-color: #FFD900;
     border: none;
@@ -981,7 +981,7 @@ body {
     flex-direction: column;
     align-items: center;
     background-color: #FFF3AF;
-    color: #000000;
+    color: #002be7;
     border-radius: 8px;
     font-size: 21px;
     transition: 0.5s;
@@ -996,7 +996,7 @@ body {
   
   .row label input[type="radio"]:checked ~ .icon-box,  .row label input[type="checkbox"]:checked ~ .icon-box {
     background: linear-gradient(138deg, #FED802, #FED802);
-    color: #000000;
+    color: #002be7;
     -webkit-animation: bounceIn 3.5s ease;
   }
   
