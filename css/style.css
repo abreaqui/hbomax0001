@@ -103,7 +103,7 @@
     height: 25px;
     background-color: transparent;
     border-radius: 50%;
-    border: 3px solid #333333;
+    border: 3px solid #ffffff;
     border-top: 3px solid transparent;
     animation: loading 1s linear infinite;
     margin-right: 10px;
